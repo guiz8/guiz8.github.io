@@ -5,4 +5,4 @@ https://guiz8.github.io/36mb2.json  Datei mit 36mb JSON Payload
 https://guiz8.github.io/18mb2.json  Datei mit 18mb JSON Payload
 
 
-https://guiz8.github.io/9mb2.json  Datei mit 19mb JSON Payload
+https://guiz8.github.io/9mb.json  Datei mit 19mb JSON Payload
